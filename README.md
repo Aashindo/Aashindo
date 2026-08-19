@@ -154,7 +154,7 @@ Independently designed and developed a complete Unity game project, handling gam
 - Worked across gameplay programming and 3D production
 - Managed independent end-to-end game-development execution
 
-[View Repository](PROJECT_REPOSITORY_URL)
+//[View Repository](PROJECT_REPOSITORY_URL)
 
 [Gameplay Demo](GAMEPLAY_DEMO_URL)
 
