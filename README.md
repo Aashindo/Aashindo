@@ -347,7 +347,7 @@ University of Alberta / Coursera | 2026
 
 * **LinkedIn:** [linkedin.com/in/ahmed-abd-alhadi](https://linkedin.com/in/ahmed-abd-alhadi)
 * **Email:** [ahmed227234@gmail.com](mailto:ahmed227234@gmail.com)
-* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/Aashindo)
 
 ---
 
