@@ -270,7 +270,7 @@ Packt / Coursera | 2026
 - **Design Patterns** — University of Alberta / Coursera, 2026
 
 ---
-
+<!--
 # GitHub Statistics
 
 <div align="center">
@@ -286,7 +286,7 @@ Packt / Coursera | 2026
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
 
 </div>
-
+-->
 ---
 
 # Connect With Me
@@ -303,7 +303,7 @@ I'm interested in opportunities and collaborations involving **Unity development
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Aashindo-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
