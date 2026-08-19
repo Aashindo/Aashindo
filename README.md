@@ -10,7 +10,7 @@ Game Developer with **4+ years of Unity experience** building gameplay systems, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Abd--alhadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abd-alhadi)
 [![Email](https://img.shields.io/badge/Email-ahmed227234%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed227234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Aashindo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aashindo)
 
 **Giza, Egypt**
 
