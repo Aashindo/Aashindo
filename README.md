@@ -293,15 +293,15 @@ Packt / Coursera | 2026
 
 I'm interested in opportunities and collaborations involving **Unity development, gameplay engineering, C# architecture, multiplayer games, and technically challenging game systems.**
 
-<p >
-    <a href="https://www.linkedin.com/in/ahmed-abdalhadi-542969247/">
-      <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Abd--alhadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p display="flex" justify-content= "center" align-items= "center" gap= "20px">
+    <a border-radius="15%" href="https://www.linkedin.com/in/ahmed-abdalhadi-542969247/">
+      <img border-radius="15%" src="https://img.shields.io/badge/LinkedIn-Ahmed_Abd--alhadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:ahmed227234@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ahmed227234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a border-radius="15%" href="mailto:ahmed227234@gmail.com">
+      <img border-radius="15%" src="https://img.shields.io/badge/Email-ahmed227234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/Aashindo">
-      <img src="https://img.shields.io/badge/GitHub-Aashindo-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <a border-radius="15%" href="https://github.com/Aashindo">
+      <img border-radius="15%" src="https://img.shields.io/badge/GitHub-Aashindo-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
 
