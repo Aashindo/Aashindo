@@ -293,28 +293,16 @@ Packt / Coursera | 2026
 
 I'm interested in opportunities and collaborations involving **Unity development, gameplay engineering, C# architecture, multiplayer games, and technically challenging game systems.**
 
-<p 
-  display= "flex" 
-  justify-content= "center"
-  align-items= "center"
-  gap= "20px" >
-  <div >  
+<p >
     <a href="https://www.linkedin.com/in/ahmed-abdalhadi-542969247/">
       <img src="https://img.shields.io/badge/LinkedIn-Ahmed_Abd--alhadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-  </div>
-
-  <div>
     <a href="mailto:ahmed227234@gmail.com">
       <img src="https://img.shields.io/badge/Email-ahmed227234%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-  </div>
-
-  <div >
     <a href="https://github.com/Aashindo">
       <img src="https://img.shields.io/badge/GitHub-Aashindo-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-  </div>
 </p>
 
 ---
